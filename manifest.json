@@ -1,13 +1,13 @@
 {
-  "name": "BitBucket Copy",
+  "name": "CopyReplaste",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Better copy paste for BitBucket.",
+  "description": "Better copy paste for the internet.",
   "homepage_url": "https://www.reedjones.com",
   "permissions": [
     "activeTab",
-   "declarativeContent",
-   "storage"
+    "declarativeContent",
+    "storage"
   ],
   "options_page": "options.html",
   "background": {
